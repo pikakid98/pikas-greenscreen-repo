@@ -12,4 +12,5 @@ Skinner Says Yes Greenscreen (Steamed Hams) | [Download](https://github.com/pika
 Are Ya Winning, Son? Greenscreen | [Download](https://github.com/pikakid98/pikas-greenscreen-repo/releases/download/gs/Are.Ya.Winning.Son.Greenscreen.mp4)
 Come Outside - Auntie Mabel - PIPPIN, NO!! (Greenscreen) | [Download](https://github.com/pikakid98/pikas-greenscreen-repo/releases/download/gs/come.outside.-.auntie.mabel.-.PIPPIN.NO.greenscreen.mp4)
 ASDF Movie - Haha Comedy Greenscreen | [Download](https://github.com/pikakid98/pikas-greenscreen-repo/releases/download/gs/asdf.movie.-.haha.comedy.greenscreen.mp4)
+Zelda: Wand Of Gamelon (CDi) - Link "OH BOY!" (Greenscreen) | [Download](https://github.com/pikakid98/pikas-greenscreen-repo/releases/download/gs/zelda.wog.-.oh.boy.greenscreen.mp4)
 
